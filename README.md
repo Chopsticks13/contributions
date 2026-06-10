@@ -1,6 +1,6 @@
 # oss-contributions
 
-Auto-updating open source contributions page hosted at [zacharias.live](https://zacharias.live).
+Auto-updating open source contributions page hosted at [chopsticks13.github.io/oss-contributions](https://chopsticks13.github.io/oss-contributions).
 
 ## How it works
 
