@@ -1,0 +1,13 @@
+# oss-contributions
+
+Auto-updating open source contributions page hosted at [zacharias.live](https://zacharias.live).
+
+## How it works
+
+A GitHub Action runs daily, fetches all public PRs by [@Chopsticks13](https://github.com/Chopsticks13) via the GitHub API, generates a static HTML page, and deploys it to GitHub Pages.
+
+No frameworks, no build tools, no dependencies. Just Python stdlib + HTML + CSS.
+
+## Manual update
+
+Trigger the workflow manually from the [Actions tab](https://github.com/Chopsticks13/oss-contributions/actions/workflows/update.yml).
