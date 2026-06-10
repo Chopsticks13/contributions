@@ -1,6 +1,6 @@
-# oss-contributions
+# contributions
 
-Auto-updating open source contributions page hosted at [chopsticks13.github.io/oss-contributions](https://chopsticks13.github.io/oss-contributions).
+Auto-updating open source contributions page hosted at [chopsticks13.github.io/contributions](https://chopsticks13.github.io/contributions).
 
 ## How it works
 
@@ -10,4 +10,4 @@ No frameworks, no build tools, no dependencies. Just Python stdlib + HTML + CSS.
 
 ## Manual update
 
-Trigger the workflow manually from the [Actions tab](https://github.com/Chopsticks13/oss-contributions/actions/workflows/update.yml).
+Trigger the workflow manually from the [Actions tab](https://github.com/Chopsticks13/contributions/actions/workflows/update.yml).
